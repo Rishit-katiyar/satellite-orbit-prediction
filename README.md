@@ -1,7 +1,5 @@
 # 🛰️ Satellite Orbit Prediction 🌍
 
-![Satellite Orbit Prediction](https://via.placeholder.com/800x400)
-
 ## Overview 🚀
 
 Welcome to the Satellite Orbit Prediction project! 🛰️ This sophisticated tool harnesses cutting-edge physics models and satellite tracking data to accurately forecast the orbital trajectories of satellites around our beloved planet Earth. Whether you're a space aficionado, a burgeoning orbital mechanic scholar, or a seasoned aerospace professional, this project provides invaluable insights into the intricate dynamics of satellite motion and orbital paths. 🌌
